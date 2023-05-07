@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SampleRepository</string>
+    <string name="item_pull_request_closed_at">Closed</string>
+    <string name="item_pull_request_opened_at">Opened</string>
+    <string name="error_loading_results">Error loading results!</string>
+    <string name="retry">Retry</string>
+    <string name="label_author">Author</string>
+    <string name="label_base_branch">Base</string>
+    <string name="label_head_branch">Head</string>
+    <string name="more_info">More Info</string>
+
+    <string-array name="pulls_state_array">
+        <item>closed</item>
+        <item>open</item>
+        <item>all</item>
+    </string-array>
+</resources>
